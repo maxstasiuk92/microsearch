@@ -1,0 +1,7 @@
+<configuration
+	data-collector="htmlparser.data.collectors.CompositionCollectorTemplate"
+	template-class="htmlparser.elements.MarkupComparatorTemplate" ReferenceScope="SUBSET" ReferenceHierarchy="EXACT">
+	<div class="price__catalog">
+		<nested-parser parser-name = "pricing.search.container.xml"/>
+	</div>
+</configuration>

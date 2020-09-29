@@ -1,0 +1,5 @@
+<configuration
+	data-collector="htmlparser.data.collectors.CompositionCollectorTemplate"
+	template-class =  "htmlparser.elements.TemplateSearcherTemplate" Traverse = "DEEP" StopOn = "FIRST_MATCH">
+	<nested-parser parser-name = "pricing.location.xml"/>
+</configuration>

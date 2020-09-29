@@ -1,0 +1,12 @@
+<configuration 
+	data-collector="null"
+	template-class="htmlparser.elements.MarkupComparatorTemplate" ReferenceScope="SUBSET" ReferenceHierarchy="BASIC">
+	<div class="buy__catalog">
+		<div class="report__availability">
+		</div>
+
+		<div class="product__status">
+			<div class="product__in__stock__later"></div>
+		</div>
+	</div>
+</configuration>

@@ -1,0 +1,7 @@
+<configuration data-collector = "htmlparser.data.collectors.InnerParameterCollectorTemplate"
+	template-class =  "htmlparser.elements.MarkupComparatorTemplate" ReferenceScope = "SUBSET" ReferenceHierarchy = "EXACT">
+	<div class="name__catalog__wrap">
+		<!--link to shop href="/ru/lm324adt" -->
+		<a class="name__catalog"><data-from-html parameter-name = "name"/></a>
+	</div>
+</configuration>

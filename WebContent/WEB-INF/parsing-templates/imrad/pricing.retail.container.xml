@@ -1,0 +1,13 @@
+<configuration
+	data-collector="htmlparser.data.collectors.ParameterCollectorTemplate"
+	template-class="htmlparser.elements.MarkupComparatorTemplate" ReferenceScope="SUBSET" ReferenceHierarchy="BASIC">
+	<div class="product__slider__price-status">
+		<p class="product__slider__price">
+			<span>
+				<data-from-html parameter-name="price.retail" />
+			</span>
+			<span class="product__slider__how-much"></span>
+		</p>
+		<div class="product__status"></div>
+	</div>
+</configuration>

@@ -1,0 +1,12 @@
+<configuration
+	data-collector="htmlparser.data.collectors.ParameterCollectorTemplate"
+	template-class="htmlparser.elements.MarkupComparatorTemplate" ReferenceScope="SUBSET" ReferenceHierarchy="BASIC">
+	<p class="extra__cost">
+		<span>
+			<data-from-html parameter-name="price.wholesale" />
+		</span>
+		<small>
+			<data-from-html parameter-name="quantity" />
+		</small>
+	</p>
+</configuration>

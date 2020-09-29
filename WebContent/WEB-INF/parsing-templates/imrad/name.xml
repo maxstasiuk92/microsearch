@@ -1,0 +1,4 @@
+<configuration data-collector = "htmlparser.data.collectors.ParameterCollectorTemplate"
+	template-class =  "htmlparser.elements.TemplateSearcherTemplate" Traverse = "DEEP" StopOn = "FIRST_MATCH">
+	<nested-parser parser-name = "name.container.xml"/>
+</configuration>

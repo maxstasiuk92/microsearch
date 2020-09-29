@@ -1,0 +1,12 @@
+<configuration
+	data-collector="htmlparser.data.collectors.InnerParameterCollectorTemplate"
+	template-class="htmlparser.elements.MarkupComparatorTemplate" ReferenceScope="SUBSET" ReferenceHierarchy="BASIC">
+	<div class="buy__catalog">
+		<div class="buy_product_table btn_table">
+		</div>
+
+		<div class="product__status">
+			<div class="product__in__stock__later"><data-from-html parameter-name = "delivery-time"/></div>
+		</div>
+	</div>
+</configuration>
